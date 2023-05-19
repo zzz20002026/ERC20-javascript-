@@ -19,7 +19,6 @@ const nameKey = 'name';
 const symbolKey = 'symbol';
 const decimalsKey = 'decimals';
 const totalSupplyKey = 'totalSupply';
-const a = 'a';
 
 class TokenERC20Contract extends Contract {
 
